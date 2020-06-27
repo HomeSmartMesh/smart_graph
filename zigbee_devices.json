@@ -1,0 +1,161 @@
+{
+    "0x00124b0018ecdf32":{
+    "type":"CC2531 coordinator"
+    },
+    "0x00124b0018ece262":{
+        "type":"CC2531 router",
+        "id":"lumi.router"
+    },
+    "0x00158d00029078a2":{
+        "type":"Aqara button motion",
+        "reference":"WXKG12LM",
+        "id":"lumi.sensor_swit"
+    },
+    "0x00158d0002753dec":{
+        "type":"Aqara presence",
+        "reference":"RTCGQ11LM",
+        "id":"lumi.sensor_motion.aq2"
+    },
+    "0x00158d0001eb8fc9":{
+        "type":"Aqara button motion",
+        "reference":"WXKG12LM"
+    },
+    "0x00158d0001922d22":{
+        "type":"Eurotronic SPZB0001",
+        "reference":"SPZB0001"
+    },
+    "0x00158d0001922d4f":{
+        "type":"Eurotronic SPZB0001",
+        "reference":"SPZB0001"
+    },
+    "0x00158d0001922d10":{
+        "type":"Eurotronic SPZB0001",
+        "reference":"SPZB0001"
+    },
+    "0x00158d000192dd3e":{
+        "type":"Eurotronic SPZB0001",
+        "reference":"SPZB0001"
+    },
+    "0x00158d0001922ce9":{
+        "type":"Eurotronic SPZB0001",
+        "reference":"SPZB0001"
+    },
+    "0x00158d0001eb81c7":{
+        "type":"Aqara button motion",
+        "reference":"WXKG12LM"
+    },
+    "0x00158d0001e7a12b":{
+        "type":"Aqara button",
+        "reference":"WXG11LM",
+        "id":"lumi.remote.b1acn01"
+    },
+    "0x0017880104cbb872":{
+        "type":"Hue E27 White"
+    },
+    "0x00158d0002a2c21c":{
+        "type":"Aqara button motion",
+        "reference":"WXKG12LM"
+    },
+    "0x00158d0002b45474":{
+        "type":"Aqara Presence",
+        "reference":"RTCGQ11LM",
+        "id":"lumi.sensor_motion.aq2"
+    },
+    "0x00158d000232c52c":{
+        "type":"Aqara contact"
+    },
+    "0x00158d00028cad58":{
+        "type":"Aqara wall Switch",
+        "id":"lumi.remote.b186acn01"
+    },
+    "0x00124b0018ed3ded":{
+        "type":"CC2531 coordinator"
+    },
+    "0x00124b001c2f1279":{
+        "type":"cc_pa_coordinator"
+    },
+    "0x00158d00026ecd6a":{
+        "type":"Aqara Weather",
+        "reference":"WSDCGQ11LM"
+    },
+    "0x00158d0002a4f61e":{
+        "type":"Aqara Motion Tag",
+        "reference":"DJT11LM",
+        "id":"lumi.vibration.aq1"
+    },
+    "0x00158d000255fb8b":{
+        "type":"Aqara water leak",
+        "reference":"SJCGQ11LM",
+        "id":"lumi.sensor_wleak.aq1"
+    },
+    "0x00124b0018ed23a5":{
+        "type":"CC2531 coordinator"
+    },
+    "0x00158d0001ef6374":{
+        "type":"Aqara button",
+        "reference":"WXKG11LM",
+        "id":"lumi.remote.b1acn01"
+    },
+    "0x00158d0002725dc1":{
+        "type":"Aqara contact"
+    },
+    "0x00158d0002760208":{
+        "type":"Aqara contact"
+    },
+    "0x00158d00028f8531":{
+        "type":"Aqara Cube",
+        "id":"lumi.sensor_cube.aqgl01"
+    },
+    "0x00158d0002476b04":{
+        "type":"Aqara Weather",
+        "reference":"WSDCGQ11LM",
+        "id":"lumi.weather"
+    },
+    "0x00158d000237df83":{
+        "type":"Aqara Weather",
+        "reference":"WSDCGQ11LM"
+    },
+    "0x00158d00024b3e45":{
+        "type":"Aqara wall switch",
+        "id":"lumi.sensor_86sw1"
+    },
+    "0x00158d00028f7fb5":{
+        "type":"Aqara wall switch",
+        "reference":"WXKG03LM",
+        "id":"lumi.remote.b186acn01"
+    },
+    "0x00212effff027765":{
+        "type":"Dresden ConBee"
+    },
+    "0x0017880103291b35":{
+        "type":"Hue Presence"
+    },
+    "0x0017880102f9f51f":{
+        "type":"Hue White",
+        "reference":"291193"
+    },
+    "0x00158d0001c95caa":{
+        "type":"Jennic Innr Test Lamp"
+    },
+    "0xc0d1c4c543f057c0":{
+        "type":"nRF52840 dev1"
+    },
+    "0x00158d0004240973":{
+        "id":"lumi.sensor_magnet.aq2"
+    },
+    "0x00158d0002518c83":{
+        "type":"Aqara contact",
+        "reference":"lumi.sensor_magnet.aq2"
+    },
+    "0x00158d00041a3bfe":{
+        "type":"Aqara contact",
+        "reference":"lumi.sensor_magnet.aq2"
+    },
+    "0x00158d00041a3b31":{
+        "type":"Aqara contact",
+        "reference":"lumi.sensor_magnet.aq2"
+    },
+    "0x00158d0002a4f51d":{
+        "type":"Aqara vibration"
+    }
+}

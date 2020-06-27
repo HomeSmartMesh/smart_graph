@@ -1,0 +1,77 @@
+{
+    "bed light button":{
+        "room":"bedroom",
+        "element":"nightstand right"
+    },
+    "bed weather":{
+        "room":"bedroom",
+        "element":"bed"
+    },
+    "balcony weather":{
+        "room":"balcony"
+    },
+    "balcony window left":{
+        "room":"livingroom"
+    },
+    "balcony window right":{
+        "room":"livingroom"
+    },
+    "balcony door":{
+        "room":"livingroom"
+    },
+    "bed nic button":{
+        "room":"bedroom",
+        "element":"nightstand left"
+    },
+    "bathroom fan button":{
+        "room":"bathroom"
+    },
+    "pc button":{
+        "room":"office"
+    },
+    "bed heat button":{
+        "room":"bedroom"
+    },
+    "office heat":{
+        "room":"office"
+    },
+    "office chair vibration":{
+        "room":"office"
+    },
+    "cupboard light":{
+        "room":"hallway"
+    },
+    "living heat":{
+        "room":"livingroom"
+    },
+    "bathroom heat":{
+        "room":"bathroom"
+    },
+    "kitchen heat":{
+        "room":"kitchen"
+    },
+    "bedroom heat":{
+        "room":"bedroom"
+    },
+    "office window right":{
+        "room":"office"
+    },
+    "office window left":{
+        "room":"office"
+    },
+    "office weather":{
+        "room":"office"
+    },
+    "office switch":{
+        "room":"office"
+    },
+    "bedroom window":{
+        "room":"bedroom"
+    },
+    "kitchen window":{
+        "room":"kitchen"
+    },
+    "tv button":{
+        "room":"livingroom"
+    }
+}

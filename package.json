@@ -1,0 +1,23 @@
+{
+  "name": "smart_graph",
+  "version": "1.0.0",
+  "description": "interactive graph view of smart home devices",
+  "main": "add_zig_config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HomeSmartMesh/smart_graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HomeSmartMesh/smart_graph/issues"
+  },
+  "homepage": "https://github.com/HomeSmartMesh/smart_graph#readme",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  }
+}

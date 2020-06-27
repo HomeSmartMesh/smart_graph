@@ -1,0 +1,64 @@
+homeassistant: false
+permit_join: false
+mqtt:
+  base_topic: lzig
+  server: 'mqtt://10.0.0.42'
+serial:
+  port: /dev/ttyUSB0
+advanced:
+  pan_id: 45300
+  ext_pan_id:
+    - 0
+    - 170
+    - 187
+    - 204
+    - 221
+    - 238
+    - 255
+    - 68
+  channel: 13
+  rtscts: false
+  log_level: debug
+  log_directory: /home/pi/share/log_zigbee2mqtt_%TIMESTAMP%
+  last_seen: ISO_8601_local
+devices:
+  '0x00124b001d4a014b':
+    friendly_name: power lifo
+  '0x00124b0018ed23a5':
+    friendly_name: coord lifo
+  '0x00158d000192dd3e':
+    friendly_name: living heat
+    retain: true
+  '0x00158d0004240973':
+    friendly_name: office window right
+    retain: true
+  '0x00158d0004237aad':
+    friendly_name: office window left
+    retain: true
+  '0x00158d0002476b04':
+    friendly_name: office weather
+    retain: false
+  '0x00158d00028f7fb5':
+    friendly_name: office switch
+    retain: false
+  '0x00158d00041a3bfe':
+    friendly_name: bedroom window
+    retain: true
+  '0x00158d00041a3b31':
+    friendly_name: kitchen window
+    retain: true
+  '0x00124b001c2f1279':
+    friendly_name: power router
+    retain: false
+  '0x00158d0001922d10':
+    friendly_name: bathroom heat
+    retain: true
+  '0x00158d0001922ce9':
+    friendly_name: kitchen heat
+    retain: true
+  '0xccccccfffee20ebd':
+    friendly_name: tv button
+  '0x00158d0001922d4f':
+    friendly_name: bedroom heat
+    retain: true
+
